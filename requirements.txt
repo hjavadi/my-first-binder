@@ -1,18 +1,8 @@
-python3
-  - conda-forge
-  - python=3.9*
-  - pip
-  - matplotlib-base=3.3*
-  - kwant=1.4*
-  - scipy=1.7*
-  - holoviews=1.13*
-  - feedparser
-  - sympy=1.6*
-  - pfapack
-  - ipython>=6.1.0
-  - markdown
-  - pip:
-    - ruamel.yaml
-    - jupyter-book
-    - sphinxext.opengraph
-    - git+https://gitlab.kwant-project.org/anton-akhmerov/publist.git
+wget==3.2
+pandas==0.25.1
+numpy==1.17.2
+geopy==1.20.0
+altair==3.2.0
+vega==2.6.0
+vega_datasets==0.7.0
+watermark==2.0.1
