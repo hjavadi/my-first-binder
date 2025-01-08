@@ -1,4 +1,4 @@
-name: python3
+python3
 channels:
   - conda-forge
 dependencies:
